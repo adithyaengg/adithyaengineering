@@ -98,6 +98,11 @@ a:active {
   padding-top: 0;
 }
 
+.tp-resizeme
+{
+padding: 40px;
+}
+
 .pb0 {
   padding-bottom: 0 !important;
 }

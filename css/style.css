@@ -100,7 +100,7 @@ a:active {
 
 .tp-resizeme
 {
-padding: 40px;
+padding: 40px !important;
 }
 
 .pb0 {

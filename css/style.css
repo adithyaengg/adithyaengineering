@@ -1446,11 +1446,12 @@ body.active-preloader-ovh {
   font-size: 45px;
   font-weight: 600;
 }
+
 .main-slider h2 span {
   color: #a70102;
-  font-family: 'Playfair Display', serif;
+  /*font-family: 'Playfair Display', serif;*/
   font-weight: bold;
-  font-style: italic;
+  font-style: normal;
   background: -webkit-gradient(linear, left top, right top, from(#f80503), to(#ff7d09));
   background: linear-gradient(to right, #f80503 0%, #ff7d09 100%);
   -webkit-background-clip: text;
